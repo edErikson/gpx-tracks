@@ -1,0 +1,2617 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:geotracker="http://ilyabogdanovich.com/gpx/extensions/geotracker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="Geo Tracker 3.3.0.1338 for Android by Ilya Bogdanovich">
+  <metadata>
+    <name>2017. gada 3. jūl. 14:27:56</name>
+    <author>
+      <name>Recorded in Geo Tracker for Android from Ilya Bogdanovich</name>
+      <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    </author>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <time>2017-07-03T11:27:56.973Z</time>
+  </metadata>
+  <trk>
+    <name>2017. gada 3. jūl. 14:27:56</name>
+    <src>Recorded in Geo Tracker for Android from Ilya Bogdanovich</src>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <extensions>
+      <geotracker:meta>
+        <length>6856.47</length>
+        <duration>1062916</duration>
+        <creationtime>2017-07-03T11:27:56.973Z</creationtime>
+        <activity>0</activity>
+      </geotracker:meta>
+    </extensions>
+    <trkseg>
+      <trkpt lat="56.64127" lon="23.612762">
+        <ele>22</ele>
+        <time>2017-07-03T11:27:55.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.641422" lon="23.612782">
+        <ele>25</ele>
+        <time>2017-07-03T11:28:08.000Z</time>
+        <extensions>
+          <geotracker:meta c="352" s="3.36" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.641518" lon="23.612837">
+        <ele>24</ele>
+        <time>2017-07-03T11:28:12.000Z</time>
+        <extensions>
+          <geotracker:meta c="49.9" s="3.38" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.641556" lon="23.613129">
+        <ele>24</ele>
+        <time>2017-07-03T11:28:16.000Z</time>
+        <extensions>
+          <geotracker:meta c="64.3" s="5.14" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.64164" lon="23.613523">
+        <ele>25</ele>
+        <time>2017-07-03T11:28:21.000Z</time>
+        <extensions>
+          <geotracker:meta c="64.5" s="5.33" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.641697" lon="23.613789">
+        <ele>25</ele>
+        <time>2017-07-03T11:28:24.000Z</time>
+        <extensions>
+          <geotracker:meta c="68.1" s="6.08" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.641731" lon="23.61397">
+        <ele>27</ele>
+        <time>2017-07-03T11:28:26.000Z</time>
+        <extensions>
+          <geotracker:meta c="70.1" s="6.05" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.641773" lon="23.614147">
+        <ele>28</ele>
+        <time>2017-07-03T11:28:28.000Z</time>
+        <extensions>
+          <geotracker:meta c="66.3" s="6.04" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.641808" lon="23.614326">
+        <ele>28</ele>
+        <time>2017-07-03T11:28:30.000Z</time>
+        <extensions>
+          <geotracker:meta c="70.6" s="5.78" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.641857" lon="23.614595">
+        <ele>28</ele>
+        <time>2017-07-03T11:28:33.000Z</time>
+        <extensions>
+          <geotracker:meta c="65.1" s="5.8" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.641926" lon="23.614862">
+        <ele>29</ele>
+        <time>2017-07-03T11:28:36.000Z</time>
+        <extensions>
+          <geotracker:meta c="68.4" s="6.17" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.641979" lon="23.615147">
+        <ele>29</ele>
+        <time>2017-07-03T11:28:39.000Z</time>
+        <extensions>
+          <geotracker:meta c="70.3" s="6.28" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.642067" lon="23.615499">
+        <ele>25</ele>
+        <time>2017-07-03T11:28:43.000Z</time>
+        <extensions>
+          <geotracker:meta c="65.5" s="6.05" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.642097" lon="23.615683">
+        <ele>25</ele>
+        <time>2017-07-03T11:28:45.000Z</time>
+        <extensions>
+          <geotracker:meta c="62.6" s="6.23" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.64217" lon="23.615969">
+        <ele>24</ele>
+        <time>2017-07-03T11:28:48.000Z</time>
+        <extensions>
+          <geotracker:meta c="64" s="6.05" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.642269" lon="23.616255">
+        <ele>21</ele>
+        <time>2017-07-03T11:28:51.000Z</time>
+        <extensions>
+          <geotracker:meta c="62" s="6.35" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.642376" lon="23.616623">
+        <ele>20</ele>
+        <time>2017-07-03T11:28:55.000Z</time>
+        <extensions>
+          <geotracker:meta c="62" s="6.72" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.642467" lon="23.616899">
+        <ele>21</ele>
+        <time>2017-07-03T11:28:58.000Z</time>
+        <extensions>
+          <geotracker:meta c="59.4" s="6.83" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.642563" lon="23.617201">
+        <ele>21</ele>
+        <time>2017-07-03T11:29:01.000Z</time>
+        <extensions>
+          <geotracker:meta c="58.2" s="6.66" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.642651" lon="23.617491">
+        <ele>22</ele>
+        <time>2017-07-03T11:29:04.000Z</time>
+        <extensions>
+          <geotracker:meta c="58" s="6.7" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.642746" lon="23.617756">
+        <ele>22</ele>
+        <time>2017-07-03T11:29:07.000Z</time>
+        <extensions>
+          <geotracker:meta c="57.6" s="6.4" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.642845" lon="23.618019">
+        <ele>23</ele>
+        <time>2017-07-03T11:29:10.000Z</time>
+        <extensions>
+          <geotracker:meta c="56.1" s="6.75" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.642948" lon="23.618273">
+        <ele>23</ele>
+        <time>2017-07-03T11:29:13.000Z</time>
+        <extensions>
+          <geotracker:meta c="49.3" s="6.31" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.643089" lon="23.618616">
+        <ele>22</ele>
+        <time>2017-07-03T11:29:17.000Z</time>
+        <extensions>
+          <geotracker:meta c="56.2" s="6.43" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.643166" lon="23.618786">
+        <ele>21</ele>
+        <time>2017-07-03T11:29:19.000Z</time>
+        <extensions>
+          <geotracker:meta c="55" s="6.73" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.643284" lon="23.61907">
+        <ele>19</ele>
+        <time>2017-07-03T11:29:22.000Z</time>
+        <extensions>
+          <geotracker:meta c="55" s="6.79" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.643402" lon="23.619331">
+        <ele>21</ele>
+        <time>2017-07-03T11:29:25.000Z</time>
+        <extensions>
+          <geotracker:meta c="51.3" s="6.74" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.643478" lon="23.619503">
+        <ele>21</ele>
+        <time>2017-07-03T11:29:27.000Z</time>
+        <extensions>
+          <geotracker:meta c="48.1" s="7.07" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.643604" lon="23.619762">
+        <ele>21</ele>
+        <time>2017-07-03T11:29:30.000Z</time>
+        <extensions>
+          <geotracker:meta c="48.5" s="6.82" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.643738" lon="23.62002">
+        <ele>20</ele>
+        <time>2017-07-03T11:29:33.000Z</time>
+        <extensions>
+          <geotracker:meta c="46.6" s="6.89" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.643867" lon="23.62027">
+        <ele>20</ele>
+        <time>2017-07-03T11:29:36.000Z</time>
+        <extensions>
+          <geotracker:meta c="45.4" s="7.14" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.643959" lon="23.62042">
+        <ele>19</ele>
+        <time>2017-07-03T11:29:38.000Z</time>
+        <extensions>
+          <geotracker:meta c="43.7" s="7.1" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.644096" lon="23.620636">
+        <ele>20</ele>
+        <time>2017-07-03T11:29:41.000Z</time>
+        <extensions>
+          <geotracker:meta c="42.6" s="6.98" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.644253" lon="23.620827">
+        <ele>19</ele>
+        <time>2017-07-03T11:29:44.000Z</time>
+        <extensions>
+          <geotracker:meta c="43.9" s="7.1" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.644398" lon="23.621056">
+        <ele>17</ele>
+        <time>2017-07-03T11:29:47.000Z</time>
+        <extensions>
+          <geotracker:meta c="42" s="7.12" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.644543" lon="23.62129">
+        <ele>17</ele>
+        <time>2017-07-03T11:29:50.000Z</time>
+        <extensions>
+          <geotracker:meta c="40.3" s="7.11" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.644684" lon="23.621504">
+        <ele>19</ele>
+        <time>2017-07-03T11:29:53.000Z</time>
+        <extensions>
+          <geotracker:meta c="40.1" s="6.96" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.644814" lon="23.621719">
+        <ele>19</ele>
+        <time>2017-07-03T11:29:56.000Z</time>
+        <extensions>
+          <geotracker:meta c="39.2" s="6.65" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.644951" lon="23.621914">
+        <ele>20</ele>
+        <time>2017-07-03T11:29:59.000Z</time>
+        <extensions>
+          <geotracker:meta c="39.2" s="6.79" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.645084" lon="23.622114">
+        <ele>20</ele>
+        <time>2017-07-03T11:30:02.000Z</time>
+        <extensions>
+          <geotracker:meta c="39" s="6.53" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.645222" lon="23.622286">
+        <ele>20</ele>
+        <time>2017-07-03T11:30:05.000Z</time>
+        <extensions>
+          <geotracker:meta c="32" s="6.36" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.645359" lon="23.622454">
+        <ele>21</ele>
+        <time>2017-07-03T11:30:08.000Z</time>
+        <extensions>
+          <geotracker:meta c="33.5" s="6.11" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.645458" lon="23.622561">
+        <ele>21</ele>
+        <time>2017-07-03T11:30:10.000Z</time>
+        <extensions>
+          <geotracker:meta c="31.8" s="6.43" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.645607" lon="23.622713">
+        <ele>20</ele>
+        <time>2017-07-03T11:30:13.000Z</time>
+        <extensions>
+          <geotracker:meta c="28.9" s="6.12" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.645706" lon="23.622849">
+        <ele>22</ele>
+        <time>2017-07-03T11:30:15.000Z</time>
+        <extensions>
+          <geotracker:meta c="32.9" s="6.76" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.64584" lon="23.622997">
+        <ele>23</ele>
+        <time>2017-07-03T11:30:18.000Z</time>
+        <extensions>
+          <geotracker:meta c="31.1" s="5.95" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.645988" lon="23.623159">
+        <ele>22</ele>
+        <time>2017-07-03T11:30:21.000Z</time>
+        <extensions>
+          <geotracker:meta c="28.9" s="6.64" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.646091" lon="23.623262">
+        <ele>21</ele>
+        <time>2017-07-03T11:30:23.000Z</time>
+        <extensions>
+          <geotracker:meta c="28.4" s="6.54" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.646233" lon="23.623415">
+        <ele>21</ele>
+        <time>2017-07-03T11:30:26.000Z</time>
+        <extensions>
+          <geotracker:meta c="28.6" s="5.65" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.646317" lon="23.62351">
+        <ele>20</ele>
+        <time>2017-07-03T11:30:28.000Z</time>
+        <extensions>
+          <geotracker:meta c="30" s="6.01" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.646458" lon="23.623665">
+        <ele>21</ele>
+        <time>2017-07-03T11:30:31.000Z</time>
+        <extensions>
+          <geotracker:meta c="29.2" s="5.81" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.646587" lon="23.623808">
+        <ele>22</ele>
+        <time>2017-07-03T11:30:34.000Z</time>
+        <extensions>
+          <geotracker:meta c="33.3" s="5.89" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.646732" lon="23.623949">
+        <ele>21</ele>
+        <time>2017-07-03T11:30:37.000Z</time>
+        <extensions>
+          <geotracker:meta c="28.9" s="5.8" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.64687" lon="23.624083">
+        <ele>21</ele>
+        <time>2017-07-03T11:30:40.000Z</time>
+        <extensions>
+          <geotracker:meta c="30.4" s="6.06" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.647015" lon="23.624258">
+        <ele>22</ele>
+        <time>2017-07-03T11:30:43.000Z</time>
+        <extensions>
+          <geotracker:meta c="31.3" s="6.22" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.647156" lon="23.624416">
+        <ele>23</ele>
+        <time>2017-07-03T11:30:46.000Z</time>
+        <extensions>
+          <geotracker:meta c="30.9" s="6.11" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.647301" lon="23.624559">
+        <ele>23</ele>
+        <time>2017-07-03T11:30:49.000Z</time>
+        <extensions>
+          <geotracker:meta c="31.4" s="6.19" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.647396" lon="23.62466">
+        <ele>23</ele>
+        <time>2017-07-03T11:30:51.000Z</time>
+        <extensions>
+          <geotracker:meta c="32.4" s="6.6" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.647545" lon="23.624807">
+        <ele>24</ele>
+        <time>2017-07-03T11:30:54.000Z</time>
+        <extensions>
+          <geotracker:meta c="31" s="6.2" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.647652" lon="23.62491">
+        <ele>23</ele>
+        <time>2017-07-03T11:30:56.000Z</time>
+        <extensions>
+          <geotracker:meta c="30.8" s="6.58" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.64785" lon="23.62512">
+        <ele>23</ele>
+        <time>2017-07-03T11:31:00.000Z</time>
+        <extensions>
+          <geotracker:meta c="29.2" s="6.38" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.647961" lon="23.625248">
+        <ele>24</ele>
+        <time>2017-07-03T11:31:02.000Z</time>
+        <extensions>
+          <geotracker:meta c="32.1" s="7.21" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648102" lon="23.625435">
+        <ele>26</ele>
+        <time>2017-07-03T11:31:05.000Z</time>
+        <extensions>
+          <geotracker:meta c="30.8" s="6.79" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648258" lon="23.625629">
+        <ele>27</ele>
+        <time>2017-07-03T11:31:08.000Z</time>
+        <extensions>
+          <geotracker:meta c="30.8" s="6.98" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648407" lon="23.625803">
+        <ele>28</ele>
+        <time>2017-07-03T11:31:11.000Z</time>
+        <extensions>
+          <geotracker:meta c="32.6" s="6.67" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648575" lon="23.625973">
+        <ele>29</ele>
+        <time>2017-07-03T11:31:14.000Z</time>
+        <extensions>
+          <geotracker:meta c="29.1" s="6.71" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648735" lon="23.626163">
+        <ele>28</ele>
+        <time>2017-07-03T11:31:17.000Z</time>
+        <extensions>
+          <geotracker:meta c="32" s="6.56" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648918" lon="23.626326">
+        <ele>27</ele>
+        <time>2017-07-03T11:31:20.000Z</time>
+        <extensions>
+          <geotracker:meta c="30.8" s="7.06" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649086" lon="23.626474">
+        <ele>26</ele>
+        <time>2017-07-03T11:31:23.000Z</time>
+        <extensions>
+          <geotracker:meta c="25.7" s="7.07" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649231" lon="23.626656">
+        <ele>27</ele>
+        <time>2017-07-03T11:31:26.000Z</time>
+        <extensions>
+          <geotracker:meta c="30.1" s="6.97" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649391" lon="23.626812">
+        <ele>27</ele>
+        <time>2017-07-03T11:31:29.000Z</time>
+        <extensions>
+          <geotracker:meta c="30.4" s="7.05" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649559" lon="23.626986">
+        <ele>29</ele>
+        <time>2017-07-03T11:31:32.000Z</time>
+        <extensions>
+          <geotracker:meta c="30.9" s="7.09" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.64967" lon="23.627096">
+        <ele>29</ele>
+        <time>2017-07-03T11:31:34.000Z</time>
+        <extensions>
+          <geotracker:meta c="30.8" s="7.03" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649841" lon="23.627258">
+        <ele>26</ele>
+        <time>2017-07-03T11:31:37.000Z</time>
+        <extensions>
+          <geotracker:meta c="28" s="6.49" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.650047" lon="23.627516">
+        <ele>27</ele>
+        <time>2017-07-03T11:31:41.000Z</time>
+        <extensions>
+          <geotracker:meta c="36.5" s="6.88" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.650146" lon="23.627647">
+        <ele>27</ele>
+        <time>2017-07-03T11:31:43.000Z</time>
+        <extensions>
+          <geotracker:meta c="44.2" s="7.09" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.650288" lon="23.627869">
+        <ele>26</ele>
+        <time>2017-07-03T11:31:46.000Z</time>
+        <extensions>
+          <geotracker:meta c="44.9" s="7.19" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.650383" lon="23.628042">
+        <ele>25</ele>
+        <time>2017-07-03T11:31:48.000Z</time>
+        <extensions>
+          <geotracker:meta c="44.5" s="6.92" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.650532" lon="23.628292">
+        <ele>24</ele>
+        <time>2017-07-03T11:31:51.000Z</time>
+        <extensions>
+          <geotracker:meta c="45.8" s="6.96" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.650642" lon="23.628544">
+        <ele>26</ele>
+        <time>2017-07-03T11:31:54.000Z</time>
+        <extensions>
+          <geotracker:meta c="55.4" s="6.46" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.650681" lon="23.628727">
+        <ele>26</ele>
+        <time>2017-07-03T11:31:56.000Z</time>
+        <extensions>
+          <geotracker:meta c="67.2" s="6.31" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.650757" lon="23.629013">
+        <ele>25</ele>
+        <time>2017-07-03T11:31:59.000Z</time>
+        <extensions>
+          <geotracker:meta c="60" s="6.84" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.650852" lon="23.629295">
+        <ele>26</ele>
+        <time>2017-07-03T11:32:02.000Z</time>
+        <extensions>
+          <geotracker:meta c="55.9" s="7.34" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.650955" lon="23.629595">
+        <ele>25</ele>
+        <time>2017-07-03T11:32:05.000Z</time>
+        <extensions>
+          <geotracker:meta c="58.9" s="7.14" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651085" lon="23.630003">
+        <ele>26</ele>
+        <time>2017-07-03T11:32:09.000Z</time>
+        <extensions>
+          <geotracker:meta c="57.8" s="6.96" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651161" lon="23.630196">
+        <ele>27</ele>
+        <time>2017-07-03T11:32:11.000Z</time>
+        <extensions>
+          <geotracker:meta c="56.8" s="6.97" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651253" lon="23.630545">
+        <ele>25</ele>
+        <time>2017-07-03T11:32:15.000Z</time>
+        <extensions>
+          <geotracker:meta c="66" s="6.04" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651318" lon="23.630795">
+        <ele>24</ele>
+        <time>2017-07-03T11:32:18.000Z</time>
+        <extensions>
+          <geotracker:meta c="64.5" s="6.06" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651382" lon="23.6311">
+        <ele>24</ele>
+        <time>2017-07-03T11:32:21.000Z</time>
+        <extensions>
+          <geotracker:meta c="72.1" s="6.68" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651421" lon="23.631426">
+        <ele>26</ele>
+        <time>2017-07-03T11:32:24.000Z</time>
+        <extensions>
+          <geotracker:meta c="80.5" s="6.67" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651421" lon="23.631636">
+        <ele>26</ele>
+        <time>2017-07-03T11:32:26.000Z</time>
+        <extensions>
+          <geotracker:meta c="79.3" s="6.23" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651459" lon="23.63196">
+        <ele>28</ele>
+        <time>2017-07-03T11:32:29.000Z</time>
+        <extensions>
+          <geotracker:meta c="77.9" s="6.67" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651485" lon="23.632172">
+        <ele>27</ele>
+        <time>2017-07-03T11:32:31.000Z</time>
+        <extensions>
+          <geotracker:meta c="82.3" s="7.13" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651508" lon="23.632425">
+        <ele>26</ele>
+        <time>2017-07-03T11:32:33.000Z</time>
+        <extensions>
+          <geotracker:meta c="81.7" s="7.26" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651524" lon="23.632767">
+        <ele>26</ele>
+        <time>2017-07-03T11:32:36.000Z</time>
+        <extensions>
+          <geotracker:meta c="81.1" s="7.24" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651546" lon="23.633101">
+        <ele>27</ele>
+        <time>2017-07-03T11:32:39.000Z</time>
+        <extensions>
+          <geotracker:meta c="87.7" s="7.37" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651543" lon="23.633457">
+        <ele>28</ele>
+        <time>2017-07-03T11:32:42.000Z</time>
+        <extensions>
+          <geotracker:meta c="93.2" s="7.84" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651535" lon="23.633818">
+        <ele>28</ele>
+        <time>2017-07-03T11:32:45.000Z</time>
+        <extensions>
+          <geotracker:meta c="93.5" s="7.74" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65152" lon="23.63419">
+        <ele>29</ele>
+        <time>2017-07-03T11:32:48.000Z</time>
+        <extensions>
+          <geotracker:meta c="95.6" s="7.39" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651512" lon="23.634411">
+        <ele>29</ele>
+        <time>2017-07-03T11:32:50.000Z</time>
+        <extensions>
+          <geotracker:meta c="92.9" s="7.12" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651508" lon="23.63476">
+        <ele>29</ele>
+        <time>2017-07-03T11:32:53.000Z</time>
+        <extensions>
+          <geotracker:meta c="94.3" s="6.87" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651497" lon="23.635126">
+        <ele>27</ele>
+        <time>2017-07-03T11:32:56.000Z</time>
+        <extensions>
+          <geotracker:meta c="90.2" s="7.05" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651478" lon="23.635366">
+        <ele>28</ele>
+        <time>2017-07-03T11:32:58.000Z</time>
+        <extensions>
+          <geotracker:meta c="91.3" s="7.39" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651478" lon="23.635609">
+        <ele>28</ele>
+        <time>2017-07-03T11:33:00.000Z</time>
+        <extensions>
+          <geotracker:meta c="90.1" s="7.31" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651482" lon="23.635857">
+        <ele>28</ele>
+        <time>2017-07-03T11:33:02.000Z</time>
+        <extensions>
+          <geotracker:meta c="87.6" s="7.36" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651505" lon="23.636309">
+        <ele>28</ele>
+        <time>2017-07-03T11:33:06.000Z</time>
+        <extensions>
+          <geotracker:meta c="90.7" s="6.67" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651508" lon="23.636642">
+        <ele>29</ele>
+        <time>2017-07-03T11:33:09.000Z</time>
+        <extensions>
+          <geotracker:meta c="91" s="6.5" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651497" lon="23.636944">
+        <ele>29</ele>
+        <time>2017-07-03T11:33:12.000Z</time>
+        <extensions>
+          <geotracker:meta c="90.8" s="5.94" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651493" lon="23.63715">
+        <ele>30</ele>
+        <time>2017-07-03T11:33:14.000Z</time>
+        <extensions>
+          <geotracker:meta c="85.8" s="6.36" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651508" lon="23.637474">
+        <ele>29</ele>
+        <time>2017-07-03T11:33:17.000Z</time>
+        <extensions>
+          <geotracker:meta c="86" s="6.3" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65152" lon="23.637671">
+        <ele>30</ele>
+        <time>2017-07-03T11:33:19.000Z</time>
+        <extensions>
+          <geotracker:meta c="83.2" s="6.02" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651554" lon="23.637972">
+        <ele>30</ele>
+        <time>2017-07-03T11:33:22.000Z</time>
+        <extensions>
+          <geotracker:meta c="75.2" s="5.96" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651596" lon="23.638231">
+        <ele>30</ele>
+        <time>2017-07-03T11:33:25.000Z</time>
+        <extensions>
+          <geotracker:meta c="71.4" s="5.87" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651638" lon="23.638489">
+        <ele>30</ele>
+        <time>2017-07-03T11:33:28.000Z</time>
+        <extensions>
+          <geotracker:meta c="70.7" s="5.78" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651684" lon="23.638756">
+        <ele>31</ele>
+        <time>2017-07-03T11:33:31.000Z</time>
+        <extensions>
+          <geotracker:meta c="70.8" s="5.99" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651726" lon="23.638931">
+        <ele>30</ele>
+        <time>2017-07-03T11:33:33.000Z</time>
+        <extensions>
+          <geotracker:meta c="69.4" s="5.46" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651768" lon="23.639153">
+        <ele>30</ele>
+        <time>2017-07-03T11:33:36.000Z</time>
+        <extensions>
+          <geotracker:meta c="71.1" s="4.88" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651829" lon="23.639387">
+        <ele>29</ele>
+        <time>2017-07-03T11:33:39.000Z</time>
+        <extensions>
+          <geotracker:meta c="70.3" s="5.05" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651882" lon="23.639589">
+        <ele>29</ele>
+        <time>2017-07-03T11:33:42.000Z</time>
+        <extensions>
+          <geotracker:meta c="69.6" s="5.39" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651939" lon="23.639755">
+        <ele>28</ele>
+        <time>2017-07-03T11:33:44.000Z</time>
+        <extensions>
+          <geotracker:meta c="69.5" s="5.57" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651993" lon="23.640013">
+        <ele>29</ele>
+        <time>2017-07-03T11:33:47.000Z</time>
+        <extensions>
+          <geotracker:meta c="73.3" s="5.56" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652042" lon="23.640255">
+        <ele>27</ele>
+        <time>2017-07-03T11:33:50.000Z</time>
+        <extensions>
+          <geotracker:meta c="68.6" s="5.21" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652084" lon="23.640499">
+        <ele>27</ele>
+        <time>2017-07-03T11:33:53.000Z</time>
+        <extensions>
+          <geotracker:meta c="65.5" s="5.04" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65213" lon="23.640768">
+        <ele>27</ele>
+        <time>2017-07-03T11:33:56.000Z</time>
+        <extensions>
+          <geotracker:meta c="75.4" s="5.65" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65218" lon="23.641045">
+        <ele>28</ele>
+        <time>2017-07-03T11:33:59.000Z</time>
+        <extensions>
+          <geotracker:meta c="73.1" s="5.92" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65221" lon="23.641232">
+        <ele>28</ele>
+        <time>2017-07-03T11:34:01.000Z</time>
+        <extensions>
+          <geotracker:meta c="75" s="5.92" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652275" lon="23.641535">
+        <ele>27</ele>
+        <time>2017-07-03T11:34:04.000Z</time>
+        <extensions>
+          <geotracker:meta c="73.3" s="6.23" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652325" lon="23.64183">
+        <ele>27</ele>
+        <time>2017-07-03T11:34:07.000Z</time>
+        <extensions>
+          <geotracker:meta c="75.1" s="6.43" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652359" lon="23.642033">
+        <ele>27</ele>
+        <time>2017-07-03T11:34:09.000Z</time>
+        <extensions>
+          <geotracker:meta c="71.1" s="6.63" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652382" lon="23.642242">
+        <ele>27</ele>
+        <time>2017-07-03T11:34:11.000Z</time>
+        <extensions>
+          <geotracker:meta c="74.4" s="6.52" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652431" lon="23.642567">
+        <ele>26</ele>
+        <time>2017-07-03T11:34:14.000Z</time>
+        <extensions>
+          <geotracker:meta c="72.6" s="7.07" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652473" lon="23.642921">
+        <ele>27</ele>
+        <time>2017-07-03T11:34:17.000Z</time>
+        <extensions>
+          <geotracker:meta c="75.5" s="7.5" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652515" lon="23.643167">
+        <ele>26</ele>
+        <time>2017-07-03T11:34:19.000Z</time>
+        <extensions>
+          <geotracker:meta c="74.8" s="7.54" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65255" lon="23.643524">
+        <ele>25</ele>
+        <time>2017-07-03T11:34:22.000Z</time>
+        <extensions>
+          <geotracker:meta c="79.9" s="7.5" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652561" lon="23.64378">
+        <ele>27</ele>
+        <time>2017-07-03T11:34:24.000Z</time>
+        <extensions>
+          <geotracker:meta c="83.7" s="7.89" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652573" lon="23.644041">
+        <ele>28</ele>
+        <time>2017-07-03T11:34:26.000Z</time>
+        <extensions>
+          <geotracker:meta c="86" s="8.02" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65258" lon="23.644434">
+        <ele>29</ele>
+        <time>2017-07-03T11:34:29.000Z</time>
+        <extensions>
+          <geotracker:meta c="85.9" s="8.07" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652603" lon="23.64469">
+        <ele>28</ele>
+        <time>2017-07-03T11:34:31.000Z</time>
+        <extensions>
+          <geotracker:meta c="78.1" s="7.96" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652626" lon="23.645081">
+        <ele>28</ele>
+        <time>2017-07-03T11:34:34.000Z</time>
+        <extensions>
+          <geotracker:meta c="85.7" s="8.27" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652649" lon="23.645454">
+        <ele>28</ele>
+        <time>2017-07-03T11:34:37.000Z</time>
+        <extensions>
+          <geotracker:meta c="88.3" s="8.01" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652653" lon="23.645723">
+        <ele>28</ele>
+        <time>2017-07-03T11:34:39.000Z</time>
+        <extensions>
+          <geotracker:meta c="89.5" s="8.23" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65266" lon="23.646132">
+        <ele>30</ele>
+        <time>2017-07-03T11:34:42.000Z</time>
+        <extensions>
+          <geotracker:meta c="84.3" s="7.91" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652683" lon="23.646517">
+        <ele>29</ele>
+        <time>2017-07-03T11:34:45.000Z</time>
+        <extensions>
+          <geotracker:meta c="86.1" s="7.98" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652687" lon="23.646904">
+        <ele>30</ele>
+        <time>2017-07-03T11:34:48.000Z</time>
+        <extensions>
+          <geotracker:meta c="89.1" s="7.9" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652687" lon="23.647287">
+        <ele>30</ele>
+        <time>2017-07-03T11:34:51.000Z</time>
+        <extensions>
+          <geotracker:meta c="88.1" s="7.56" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652691" lon="23.647648">
+        <ele>29</ele>
+        <time>2017-07-03T11:34:54.000Z</time>
+        <extensions>
+          <geotracker:meta c="83.4" s="7.25" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652706" lon="23.647882">
+        <ele>27</ele>
+        <time>2017-07-03T11:34:56.000Z</time>
+        <extensions>
+          <geotracker:meta c="83.7" s="7.12" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652718" lon="23.648232">
+        <ele>24</ele>
+        <time>2017-07-03T11:34:59.000Z</time>
+        <extensions>
+          <geotracker:meta c="89.9" s="7.24" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652729" lon="23.648594">
+        <ele>25</ele>
+        <time>2017-07-03T11:35:02.000Z</time>
+        <extensions>
+          <geotracker:meta c="86.8" s="7.04" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652729" lon="23.648819">
+        <ele>26</ele>
+        <time>2017-07-03T11:35:04.000Z</time>
+        <extensions>
+          <geotracker:meta c="89.9" s="7" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65274" lon="23.649174">
+        <ele>27</ele>
+        <time>2017-07-03T11:35:07.000Z</time>
+        <extensions>
+          <geotracker:meta c="86.5" s="7.1" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652737" lon="23.649508">
+        <ele>27</ele>
+        <time>2017-07-03T11:35:10.000Z</time>
+        <extensions>
+          <geotracker:meta c="86.3" s="6.92" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652748" lon="23.649858">
+        <ele>27</ele>
+        <time>2017-07-03T11:35:13.000Z</time>
+        <extensions>
+          <geotracker:meta c="86.9" s="7.26" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652756" lon="23.650185">
+        <ele>28</ele>
+        <time>2017-07-03T11:35:16.000Z</time>
+        <extensions>
+          <geotracker:meta c="84.9" s="6.63" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652771" lon="23.650406">
+        <ele>27</ele>
+        <time>2017-07-03T11:35:18.000Z</time>
+        <extensions>
+          <geotracker:meta c="87.2" s="6.63" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652752" lon="23.650734">
+        <ele>28</ele>
+        <time>2017-07-03T11:35:21.000Z</time>
+        <extensions>
+          <geotracker:meta c="101" s="7.11" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652771" lon="23.651184">
+        <ele>28</ele>
+        <time>2017-07-03T11:35:25.000Z</time>
+        <extensions>
+          <geotracker:meta c="75.3" s="6.29" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65279" lon="23.6516">
+        <ele>28</ele>
+        <time>2017-07-03T11:35:29.000Z</time>
+        <extensions>
+          <geotracker:meta c="88.2" s="6.93" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652798" lon="23.651932">
+        <ele>28</ele>
+        <time>2017-07-03T11:35:32.000Z</time>
+        <extensions>
+          <geotracker:meta c="87.1" s="6.89" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652802" lon="23.65226">
+        <ele>28</ele>
+        <time>2017-07-03T11:35:35.000Z</time>
+        <extensions>
+          <geotracker:meta c="87.6" s="6.92" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652832" lon="23.652576">
+        <ele>27</ele>
+        <time>2017-07-03T11:35:38.000Z</time>
+        <extensions>
+          <geotracker:meta c="89" s="7.2" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652851" lon="23.652943">
+        <ele>25</ele>
+        <time>2017-07-03T11:35:41.000Z</time>
+        <extensions>
+          <geotracker:meta c="85.2" s="7.16" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652847" lon="23.653181">
+        <ele>26</ele>
+        <time>2017-07-03T11:35:43.000Z</time>
+        <extensions>
+          <geotracker:meta c="88.4" s="7.41" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652847" lon="23.653429">
+        <ele>25</ele>
+        <time>2017-07-03T11:35:45.000Z</time>
+        <extensions>
+          <geotracker:meta c="90" s="7.54" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652855" lon="23.653658">
+        <ele>25</ele>
+        <time>2017-07-03T11:35:47.000Z</time>
+        <extensions>
+          <geotracker:meta c="83.9" s="7.06" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652863" lon="23.654013">
+        <ele>25</ele>
+        <time>2017-07-03T11:35:50.000Z</time>
+        <extensions>
+          <geotracker:meta c="88" s="7.32" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652851" lon="23.654354">
+        <ele>26</ele>
+        <time>2017-07-03T11:35:53.000Z</time>
+        <extensions>
+          <geotracker:meta c="89.8" s="6.94" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652859" lon="23.654696">
+        <ele>26</ele>
+        <time>2017-07-03T11:35:56.000Z</time>
+        <extensions>
+          <geotracker:meta c="90.6" s="7.3" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652866" lon="23.655043">
+        <ele>26</ele>
+        <time>2017-07-03T11:35:59.000Z</time>
+        <extensions>
+          <geotracker:meta c="87.3" s="7.07" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652874" lon="23.655415">
+        <ele>27</ele>
+        <time>2017-07-03T11:36:02.000Z</time>
+        <extensions>
+          <geotracker:meta c="89.8" s="7.77" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652897" lon="23.655775">
+        <ele>28</ele>
+        <time>2017-07-03T11:36:05.000Z</time>
+        <extensions>
+          <geotracker:meta c="88.2" s="7.53" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652859" lon="23.656134">
+        <ele>28</ele>
+        <time>2017-07-03T11:36:08.000Z</time>
+        <extensions>
+          <geotracker:meta c="105.4" s="7.02" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652863" lon="23.656504">
+        <ele>31</ele>
+        <time>2017-07-03T11:36:11.000Z</time>
+        <extensions>
+          <geotracker:meta c="79.2" s="7.68" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652897" lon="23.656742">
+        <ele>28</ele>
+        <time>2017-07-03T11:36:13.000Z</time>
+        <extensions>
+          <geotracker:meta c="83.8" s="7.21" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652912" lon="23.657108">
+        <ele>29</ele>
+        <time>2017-07-03T11:36:16.000Z</time>
+        <extensions>
+          <geotracker:meta c="86.5" s="7.43" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652931" lon="23.65748">
+        <ele>29</ele>
+        <time>2017-07-03T11:36:19.000Z</time>
+        <extensions>
+          <geotracker:meta c="80.9" s="7.39" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65295" lon="23.657814">
+        <ele>29</ele>
+        <time>2017-07-03T11:36:22.000Z</time>
+        <extensions>
+          <geotracker:meta c="88.7" s="7.07" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652969" lon="23.658161">
+        <ele>28</ele>
+        <time>2017-07-03T11:36:25.000Z</time>
+        <extensions>
+          <geotracker:meta c="88.2" s="7.33" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652966" lon="23.658506">
+        <ele>28</ele>
+        <time>2017-07-03T11:36:28.000Z</time>
+        <extensions>
+          <geotracker:meta c="93.8" s="7.06" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652973" lon="23.658724">
+        <ele>29</ele>
+        <time>2017-07-03T11:36:30.000Z</time>
+        <extensions>
+          <geotracker:meta c="84.1" s="7.42" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652988" lon="23.659096">
+        <ele>31</ele>
+        <time>2017-07-03T11:36:33.000Z</time>
+        <extensions>
+          <geotracker:meta c="87.2" s="7.29" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652992" lon="23.659468">
+        <ele>32</ele>
+        <time>2017-07-03T11:36:36.000Z</time>
+        <extensions>
+          <geotracker:meta c="90.6" s="7.67" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652985" lon="23.659874">
+        <ele>30</ele>
+        <time>2017-07-03T11:36:39.000Z</time>
+        <extensions>
+          <geotracker:meta c="89.3" s="8.39" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652996" lon="23.660236">
+        <ele>30</ele>
+        <time>2017-07-03T11:36:42.000Z</time>
+        <extensions>
+          <geotracker:meta c="87.7" s="7.43" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652996" lon="23.660477">
+        <ele>31</ele>
+        <time>2017-07-03T11:36:44.000Z</time>
+        <extensions>
+          <geotracker:meta c="90" s="7.27" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652985" lon="23.660849">
+        <ele>30</ele>
+        <time>2017-07-03T11:36:47.000Z</time>
+        <extensions>
+          <geotracker:meta c="91.8" s="7.37" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652985" lon="23.661102">
+        <ele>30</ele>
+        <time>2017-07-03T11:36:49.000Z</time>
+        <extensions>
+          <geotracker:meta c="88" s="8.16" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652996" lon="23.661488">
+        <ele>30</ele>
+        <time>2017-07-03T11:36:52.000Z</time>
+        <extensions>
+          <geotracker:meta c="83.3" s="8.19" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653015" lon="23.661869">
+        <ele>30</ele>
+        <time>2017-07-03T11:36:55.000Z</time>
+        <extensions>
+          <geotracker:meta c="86.9" s="7.53" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653023" lon="23.662127">
+        <ele>30</ele>
+        <time>2017-07-03T11:36:57.000Z</time>
+        <extensions>
+          <geotracker:meta c="85.3" s="7.9" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653015" lon="23.662508">
+        <ele>31</ele>
+        <time>2017-07-03T11:37:00.000Z</time>
+        <extensions>
+          <geotracker:meta c="88.9" s="8" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653019" lon="23.662872">
+        <ele>31</ele>
+        <time>2017-07-03T11:37:03.000Z</time>
+        <extensions>
+          <geotracker:meta c="92.4" s="7.44" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653042" lon="23.663218">
+        <ele>31</ele>
+        <time>2017-07-03T11:37:06.000Z</time>
+        <extensions>
+          <geotracker:meta c="80.3" s="7.35" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653057" lon="23.66357">
+        <ele>31</ele>
+        <time>2017-07-03T11:37:09.000Z</time>
+        <extensions>
+          <geotracker:meta c="86.5" s="7.47" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653061" lon="23.663918">
+        <ele>31</ele>
+        <time>2017-07-03T11:37:12.000Z</time>
+        <extensions>
+          <geotracker:meta c="89.5" s="6.55" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653065" lon="23.664265">
+        <ele>31</ele>
+        <time>2017-07-03T11:37:15.000Z</time>
+        <extensions>
+          <geotracker:meta c="87.4" s="7.09" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65308" lon="23.66461">
+        <ele>30</ele>
+        <time>2017-07-03T11:37:18.000Z</time>
+        <extensions>
+          <geotracker:meta c="87.1" s="6.85" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653099" lon="23.665024">
+        <ele>29</ele>
+        <time>2017-07-03T11:37:22.000Z</time>
+        <extensions>
+          <geotracker:meta c="89.2" s="6.41" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653076" lon="23.665234">
+        <ele>28</ele>
+        <time>2017-07-03T11:37:24.000Z</time>
+        <extensions>
+          <geotracker:meta c="101.2" s="6.28" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653084" lon="23.665567">
+        <ele>28</ele>
+        <time>2017-07-03T11:37:27.000Z</time>
+        <extensions>
+          <geotracker:meta c="82.7" s="6.78" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653122" lon="23.665874">
+        <ele>28</ele>
+        <time>2017-07-03T11:37:30.000Z</time>
+        <extensions>
+          <geotracker:meta c="82.8" s="6.25" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653126" lon="23.666183">
+        <ele>29</ele>
+        <time>2017-07-03T11:37:33.000Z</time>
+        <extensions>
+          <geotracker:meta c="87.8" s="6.39" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653145" lon="23.666456">
+        <ele>26</ele>
+        <time>2017-07-03T11:37:36.000Z</time>
+        <extensions>
+          <geotracker:meta c="88" s="6.25" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653156" lon="23.666771">
+        <ele>27</ele>
+        <time>2017-07-03T11:37:39.000Z</time>
+        <extensions>
+          <geotracker:meta c="87.6" s="6.47" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653156" lon="23.667088">
+        <ele>26</ele>
+        <time>2017-07-03T11:37:42.000Z</time>
+        <extensions>
+          <geotracker:meta c="88.5" s="6.51" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65316" lon="23.667408">
+        <ele>26</ele>
+        <time>2017-07-03T11:37:45.000Z</time>
+        <extensions>
+          <geotracker:meta c="91.2" s="6.55" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653175" lon="23.667812">
+        <ele>27</ele>
+        <time>2017-07-03T11:37:49.000Z</time>
+        <extensions>
+          <geotracker:meta c="87.9" s="6.14" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653175" lon="23.668016">
+        <ele>28</ele>
+        <time>2017-07-03T11:37:51.000Z</time>
+        <extensions>
+          <geotracker:meta c="90.2" s="6.32" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653175" lon="23.66823">
+        <ele>29</ele>
+        <time>2017-07-03T11:37:53.000Z</time>
+        <extensions>
+          <geotracker:meta c="86.2" s="6.26" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653175" lon="23.668526">
+        <ele>30</ele>
+        <time>2017-07-03T11:37:56.000Z</time>
+        <extensions>
+          <geotracker:meta c="90" s="6.02" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653187" lon="23.668703">
+        <ele>28</ele>
+        <time>2017-07-03T11:37:58.000Z</time>
+        <extensions>
+          <geotracker:meta c="88.9" s="5.69" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653198" lon="23.668974">
+        <ele>26</ele>
+        <time>2017-07-03T11:38:01.000Z</time>
+        <extensions>
+          <geotracker:meta c="89.9" s="5.79" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653202" lon="23.66927">
+        <ele>24</ele>
+        <time>2017-07-03T11:38:04.000Z</time>
+        <extensions>
+          <geotracker:meta c="90.7" s="6.46" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653194" lon="23.669495">
+        <ele>23</ele>
+        <time>2017-07-03T11:38:06.000Z</time>
+        <extensions>
+          <geotracker:meta c="99.9" s="6.42" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653191" lon="23.669825">
+        <ele>21</ele>
+        <time>2017-07-03T11:38:09.000Z</time>
+        <extensions>
+          <geotracker:meta c="84.6" s="6.43" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65321" lon="23.670021">
+        <ele>22</ele>
+        <time>2017-07-03T11:38:11.000Z</time>
+        <extensions>
+          <geotracker:meta c="79.5" s="6.33" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653214" lon="23.670229">
+        <ele>23</ele>
+        <time>2017-07-03T11:38:13.000Z</time>
+        <extensions>
+          <geotracker:meta c="94.1" s="6.45" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653194" lon="23.670547">
+        <ele>23</ele>
+        <time>2017-07-03T11:38:16.000Z</time>
+        <extensions>
+          <geotracker:meta c="89.4" s="6.75" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653194" lon="23.670881">
+        <ele>23</ele>
+        <time>2017-07-03T11:38:19.000Z</time>
+        <extensions>
+          <geotracker:meta c="87.3" s="6.67" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653217" lon="23.671204">
+        <ele>23</ele>
+        <time>2017-07-03T11:38:22.000Z</time>
+        <extensions>
+          <geotracker:meta c="81.7" s="6.66" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653206" lon="23.671547">
+        <ele>23</ele>
+        <time>2017-07-03T11:38:25.000Z</time>
+        <extensions>
+          <geotracker:meta c="94.5" s="7.12" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653206" lon="23.671904">
+        <ele>23</ele>
+        <time>2017-07-03T11:38:28.000Z</time>
+        <extensions>
+          <geotracker:meta c="93.1" s="6.99" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653202" lon="23.672268">
+        <ele>22</ele>
+        <time>2017-07-03T11:38:31.000Z</time>
+        <extensions>
+          <geotracker:meta c="92.9" s="7.52" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653194" lon="23.672501">
+        <ele>22</ele>
+        <time>2017-07-03T11:38:33.000Z</time>
+        <extensions>
+          <geotracker:meta c="93.1" s="7.3" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653187" lon="23.67277">
+        <ele>20</ele>
+        <time>2017-07-03T11:38:35.000Z</time>
+        <extensions>
+          <geotracker:meta c="92.4" s="7.68" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653187" lon="23.673134">
+        <ele>20</ele>
+        <time>2017-07-03T11:38:38.000Z</time>
+        <extensions>
+          <geotracker:meta c="93.8" s="7.27" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65316" lon="23.673483">
+        <ele>22</ele>
+        <time>2017-07-03T11:38:41.000Z</time>
+        <extensions>
+          <geotracker:meta c="92" s="7.44" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653141" lon="23.673723">
+        <ele>22</ele>
+        <time>2017-07-03T11:38:43.000Z</time>
+        <extensions>
+          <geotracker:meta c="98.6" s="7.3" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653088" lon="23.674084">
+        <ele>23</ele>
+        <time>2017-07-03T11:38:46.000Z</time>
+        <extensions>
+          <geotracker:meta c="98.9" s="7.46" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653061" lon="23.674471">
+        <ele>23</ele>
+        <time>2017-07-03T11:38:49.000Z</time>
+        <extensions>
+          <geotracker:meta c="100.8" s="8.12" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653053" lon="23.674732">
+        <ele>23</ele>
+        <time>2017-07-03T11:38:51.000Z</time>
+        <extensions>
+          <geotracker:meta c="93.6" s="7.81" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653038" lon="23.674978">
+        <ele>23</ele>
+        <time>2017-07-03T11:38:53.000Z</time>
+        <extensions>
+          <geotracker:meta c="98.2" s="7.5" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653027" lon="23.675211">
+        <ele>23</ele>
+        <time>2017-07-03T11:38:55.000Z</time>
+        <extensions>
+          <geotracker:meta c="90.7" s="7.31" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653011" lon="23.675447">
+        <ele>24</ele>
+        <time>2017-07-03T11:38:57.000Z</time>
+        <extensions>
+          <geotracker:meta c="91.7" s="8.01" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653" lon="23.675678">
+        <ele>23</ele>
+        <time>2017-07-03T11:38:59.000Z</time>
+        <extensions>
+          <geotracker:meta c="97.5" s="6.88" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652988" lon="23.676031">
+        <ele>23</ele>
+        <time>2017-07-03T11:39:02.000Z</time>
+        <extensions>
+          <geotracker:meta c="93.5" s="7.2" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652992" lon="23.676384">
+        <ele>21</ele>
+        <time>2017-07-03T11:39:05.000Z</time>
+        <extensions>
+          <geotracker:meta c="94.9" s="6.75" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652969" lon="23.676706">
+        <ele>21</ele>
+        <time>2017-07-03T11:39:08.000Z</time>
+        <extensions>
+          <geotracker:meta c="94.3" s="6.71" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652962" lon="23.677042">
+        <ele>21</ele>
+        <time>2017-07-03T11:39:11.000Z</time>
+        <extensions>
+          <geotracker:meta c="90.4" s="6.82" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652973" lon="23.67738">
+        <ele>20</ele>
+        <time>2017-07-03T11:39:14.000Z</time>
+        <extensions>
+          <geotracker:meta c="80.6" s="6.97" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.653008" lon="23.677662">
+        <ele>22</ele>
+        <time>2017-07-03T11:39:17.000Z</time>
+        <extensions>
+          <geotracker:meta c="83.1" s="6.1" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652992" lon="23.677965">
+        <ele>23</ele>
+        <time>2017-07-03T11:39:20.000Z</time>
+        <extensions>
+          <geotracker:meta c="93.9" s="6.36" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652977" lon="23.678171">
+        <ele>24</ele>
+        <time>2017-07-03T11:39:22.000Z</time>
+        <extensions>
+          <geotracker:meta c="95.3" s="6.72" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652962" lon="23.678385">
+        <ele>25</ele>
+        <time>2017-07-03T11:39:24.000Z</time>
+        <extensions>
+          <geotracker:meta c="97" s="6.85" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65295" lon="23.678717">
+        <ele>25</ele>
+        <time>2017-07-03T11:39:27.000Z</time>
+        <extensions>
+          <geotracker:meta c="94" s="6.73" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652946" lon="23.679031">
+        <ele>25</ele>
+        <time>2017-07-03T11:39:30.000Z</time>
+        <extensions>
+          <geotracker:meta c="91" s="6.62" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652931" lon="23.679253">
+        <ele>25</ele>
+        <time>2017-07-03T11:39:32.000Z</time>
+        <extensions>
+          <geotracker:meta c="93" s="6.96" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652924" lon="23.679605">
+        <ele>26</ele>
+        <time>2017-07-03T11:39:35.000Z</time>
+        <extensions>
+          <geotracker:meta c="97" s="7.01" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652901" lon="23.67993">
+        <ele>25</ele>
+        <time>2017-07-03T11:39:38.000Z</time>
+        <extensions>
+          <geotracker:meta c="99.8" s="6.72" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652882" lon="23.680273">
+        <ele>25</ele>
+        <time>2017-07-03T11:39:41.000Z</time>
+        <extensions>
+          <geotracker:meta c="91.7" s="6.56" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652874" lon="23.680622">
+        <ele>26</ele>
+        <time>2017-07-03T11:39:44.000Z</time>
+        <extensions>
+          <geotracker:meta c="91.1" s="6.68" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652847" lon="23.680954">
+        <ele>24</ele>
+        <time>2017-07-03T11:39:47.000Z</time>
+        <extensions>
+          <geotracker:meta c="95" s="6.73" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652866" lon="23.681185">
+        <ele>23</ele>
+        <time>2017-07-03T11:39:49.000Z</time>
+        <extensions>
+          <geotracker:meta c="85.4" s="7.39" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652882" lon="23.681505">
+        <ele>23</ele>
+        <time>2017-07-03T11:39:52.000Z</time>
+        <extensions>
+          <geotracker:meta c="91.2" s="6.7" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652882" lon="23.681839">
+        <ele>22</ele>
+        <time>2017-07-03T11:39:55.000Z</time>
+        <extensions>
+          <geotracker:meta c="90.9" s="7.04" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652855" lon="23.68219">
+        <ele>24</ele>
+        <time>2017-07-03T11:39:58.000Z</time>
+        <extensions>
+          <geotracker:meta c="91.7" s="6.98" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652851" lon="23.682499">
+        <ele>23</ele>
+        <time>2017-07-03T11:40:01.000Z</time>
+        <extensions>
+          <geotracker:meta c="95.4" s="6.76" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65284" lon="23.682854">
+        <ele>23</ele>
+        <time>2017-07-03T11:40:04.000Z</time>
+        <extensions>
+          <geotracker:meta c="94.4" s="7.23" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652836" lon="23.683079">
+        <ele>24</ele>
+        <time>2017-07-03T11:40:06.000Z</time>
+        <extensions>
+          <geotracker:meta c="91" s="6.87" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652828" lon="23.683306">
+        <ele>25</ele>
+        <time>2017-07-03T11:40:08.000Z</time>
+        <extensions>
+          <geotracker:meta c="92.1" s="6.98" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652817" lon="23.683647">
+        <ele>25</ele>
+        <time>2017-07-03T11:40:11.000Z</time>
+        <extensions>
+          <geotracker:meta c="94.5" s="7.27" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652794" lon="23.68399">
+        <ele>25</ele>
+        <time>2017-07-03T11:40:14.000Z</time>
+        <extensions>
+          <geotracker:meta c="94.5" s="7.09" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652767" lon="23.684345">
+        <ele>25</ele>
+        <time>2017-07-03T11:40:17.000Z</time>
+        <extensions>
+          <geotracker:meta c="110.7" s="7.09" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652729" lon="23.68471">
+        <ele>26</ele>
+        <time>2017-07-03T11:40:20.000Z</time>
+        <extensions>
+          <geotracker:meta c="86.3" s="7.49" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652771" lon="23.685061">
+        <ele>25</ele>
+        <time>2017-07-03T11:40:23.000Z</time>
+        <extensions>
+          <geotracker:meta c="87.4" s="6.61" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652756" lon="23.685387">
+        <ele>24</ele>
+        <time>2017-07-03T11:40:26.000Z</time>
+        <extensions>
+          <geotracker:meta c="92.4" s="6.64" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65274" lon="23.685596">
+        <ele>24</ele>
+        <time>2017-07-03T11:40:28.000Z</time>
+        <extensions>
+          <geotracker:meta c="92.4" s="6.38" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65274" lon="23.685915">
+        <ele>23</ele>
+        <time>2017-07-03T11:40:31.000Z</time>
+        <extensions>
+          <geotracker:meta c="93" s="6.65" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652744" lon="23.686255">
+        <ele>23</ele>
+        <time>2017-07-03T11:40:34.000Z</time>
+        <extensions>
+          <geotracker:meta c="91.9" s="6.76" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652737" lon="23.686565">
+        <ele>24</ele>
+        <time>2017-07-03T11:40:37.000Z</time>
+        <extensions>
+          <geotracker:meta c="91.1" s="6.47" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652729" lon="23.686892">
+        <ele>21</ele>
+        <time>2017-07-03T11:40:40.000Z</time>
+        <extensions>
+          <geotracker:meta c="89.8" s="6.33" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652706" lon="23.687204">
+        <ele>23</ele>
+        <time>2017-07-03T11:40:43.000Z</time>
+        <extensions>
+          <geotracker:meta c="92.5" s="6.31" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652706" lon="23.68751">
+        <ele>24</ele>
+        <time>2017-07-03T11:40:46.000Z</time>
+        <extensions>
+          <geotracker:meta c="92" s="5.77" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652702" lon="23.687788">
+        <ele>22</ele>
+        <time>2017-07-03T11:40:49.000Z</time>
+        <extensions>
+          <geotracker:meta c="87.4" s="5.84" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652691" lon="23.688047">
+        <ele>21</ele>
+        <time>2017-07-03T11:40:52.000Z</time>
+        <extensions>
+          <geotracker:meta c="89.6" s="5.47" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652676" lon="23.688314">
+        <ele>22</ele>
+        <time>2017-07-03T11:40:55.000Z</time>
+        <extensions>
+          <geotracker:meta c="96.3" s="5.16" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65263" lon="23.688557">
+        <ele>21</ele>
+        <time>2017-07-03T11:40:58.000Z</time>
+        <extensions>
+          <geotracker:meta c="106.2" s="5.43" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65263" lon="23.688778">
+        <ele>23</ele>
+        <time>2017-07-03T11:41:01.000Z</time>
+        <extensions>
+          <geotracker:meta c="79.3" s="4.56" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652626" lon="23.688992">
+        <ele>24</ele>
+        <time>2017-07-03T11:41:04.000Z</time>
+        <extensions>
+          <geotracker:meta c="86.1" s="4.75" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652611" lon="23.689169">
+        <ele>25</ele>
+        <time>2017-07-03T11:41:06.000Z</time>
+        <extensions>
+          <geotracker:meta c="96.9" s="5.54" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652588" lon="23.689447">
+        <ele>25</ele>
+        <time>2017-07-03T11:41:09.000Z</time>
+        <extensions>
+          <geotracker:meta c="94.4" s="5.88" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652554" lon="23.689726">
+        <ele>28</ele>
+        <time>2017-07-03T11:41:12.000Z</time>
+        <extensions>
+          <geotracker:meta c="96.3" s="5.94" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652527" lon="23.689997">
+        <ele>31</ele>
+        <time>2017-07-03T11:41:15.000Z</time>
+        <extensions>
+          <geotracker:meta c="94.9" s="5.79" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652512" lon="23.690184">
+        <ele>31</ele>
+        <time>2017-07-03T11:41:17.000Z</time>
+        <extensions>
+          <geotracker:meta c="93.8" s="5.68" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652496" lon="23.690529">
+        <ele>32</ele>
+        <time>2017-07-03T11:41:21.000Z</time>
+        <extensions>
+          <geotracker:meta c="93.2" s="5.19" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652496" lon="23.690775">
+        <ele>32</ele>
+        <time>2017-07-03T11:41:24.000Z</time>
+        <extensions>
+          <geotracker:meta c="99" s="4.88" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652466" lon="23.690943">
+        <ele>32</ele>
+        <time>2017-07-03T11:41:27.000Z</time>
+        <extensions>
+          <geotracker:meta c="135.6" s="3.08" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652374" lon="23.690996">
+        <ele>31</ele>
+        <time>2017-07-03T11:41:30.000Z</time>
+        <extensions>
+          <geotracker:meta c="174.9" s="4.25" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652176" lon="23.690977">
+        <ele>28</ele>
+        <time>2017-07-03T11:41:35.000Z</time>
+        <extensions>
+          <geotracker:meta c="169.7" s="4.02" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652145" lon="23.691162">
+        <ele>30</ele>
+        <time>2017-07-03T11:41:38.000Z</time>
+        <extensions>
+          <geotracker:meta c="67.6" s="4.76" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652279" lon="23.691288">
+        <ele>26</ele>
+        <time>2017-07-03T11:41:41.000Z</time>
+        <extensions>
+          <geotracker:meta c="13.5" s="6.26" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652412" lon="23.691317">
+        <ele>25</ele>
+        <time>2017-07-03T11:41:44.000Z</time>
+        <extensions>
+          <geotracker:meta c="14.2" s="5.17" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652485" lon="23.69153">
+        <ele>25</ele>
+        <time>2017-07-03T11:41:47.000Z</time>
+        <extensions>
+          <geotracker:meta c="80" s="5.04" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65247" lon="23.691923">
+        <ele>24</ele>
+        <time>2017-07-03T11:41:51.000Z</time>
+        <extensions>
+          <geotracker:meta c="99.5" s="6.37" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652447" lon="23.69212">
+        <ele>24</ele>
+        <time>2017-07-03T11:41:53.000Z</time>
+        <extensions>
+          <geotracker:meta c="101.7" s="6.75" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652405" lon="23.692465">
+        <ele>25</ele>
+        <time>2017-07-03T11:41:56.000Z</time>
+        <extensions>
+          <geotracker:meta c="101.5" s="6.99" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652359" lon="23.692801">
+        <ele>27</ele>
+        <time>2017-07-03T11:41:59.000Z</time>
+        <extensions>
+          <geotracker:meta c="103.9" s="6.98" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652325" lon="23.693041">
+        <ele>26</ele>
+        <time>2017-07-03T11:42:01.000Z</time>
+        <extensions>
+          <geotracker:meta c="106.5" s="7.32" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652271" lon="23.693378">
+        <ele>28</ele>
+        <time>2017-07-03T11:42:04.000Z</time>
+        <extensions>
+          <geotracker:meta c="105.7" s="7.15" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652245" lon="23.693596">
+        <ele>27</ele>
+        <time>2017-07-03T11:42:06.000Z</time>
+        <extensions>
+          <geotracker:meta c="104.1" s="7.02" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.65221" lon="23.693953">
+        <ele>26</ele>
+        <time>2017-07-03T11:42:09.000Z</time>
+        <extensions>
+          <geotracker:meta c="99" s="7.51" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652176" lon="23.694183">
+        <ele>26</ele>
+        <time>2017-07-03T11:42:11.000Z</time>
+        <extensions>
+          <geotracker:meta c="105" s="7.42" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652122" lon="23.694532">
+        <ele>26</ele>
+        <time>2017-07-03T11:42:14.000Z</time>
+        <extensions>
+          <geotracker:meta c="103.5" s="7.33" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652084" lon="23.694859">
+        <ele>23</ele>
+        <time>2017-07-03T11:42:17.000Z</time>
+        <extensions>
+          <geotracker:meta c="107.7" s="6.67" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.652035" lon="23.695204">
+        <ele>25</ele>
+        <time>2017-07-03T11:42:20.000Z</time>
+        <extensions>
+          <geotracker:meta c="105.9" s="6.85" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651985" lon="23.695543">
+        <ele>26</ele>
+        <time>2017-07-03T11:42:23.000Z</time>
+        <extensions>
+          <geotracker:meta c="104.6" s="6.9" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651932" lon="23.695854">
+        <ele>26</ele>
+        <time>2017-07-03T11:42:26.000Z</time>
+        <extensions>
+          <geotracker:meta c="110.4" s="6.58" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651882" lon="23.696114">
+        <ele>27</ele>
+        <time>2017-07-03T11:42:29.000Z</time>
+        <extensions>
+          <geotracker:meta c="102.5" s="5.29" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651859" lon="23.696426">
+        <ele>26</ele>
+        <time>2017-07-03T11:42:34.000Z</time>
+        <extensions>
+          <geotracker:meta c="98.2" s="3.16" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651836" lon="23.69659">
+        <ele>27</ele>
+        <time>2017-07-03T11:42:37.000Z</time>
+        <extensions>
+          <geotracker:meta c="116.5" s="3.77" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651726" lon="23.696667">
+        <ele>24</ele>
+        <time>2017-07-03T11:42:41.000Z</time>
+        <extensions>
+          <geotracker:meta c="197.2" s="3.38" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651512" lon="23.69651">
+        <ele>23</ele>
+        <time>2017-07-03T11:42:46.000Z</time>
+        <extensions>
+          <geotracker:meta c="196.9" s="5.47" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651375" lon="23.696445">
+        <ele>23</ele>
+        <time>2017-07-03T11:42:49.000Z</time>
+        <extensions>
+          <geotracker:meta c="192.9" s="5.01" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651287" lon="23.696373">
+        <ele>22</ele>
+        <time>2017-07-03T11:42:52.000Z</time>
+        <extensions>
+          <geotracker:meta c="201" s="4.12" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651161" lon="23.696304">
+        <ele>21</ele>
+        <time>2017-07-03T11:42:55.000Z</time>
+        <extensions>
+          <geotracker:meta c="196.8" s="3.37" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.651031" lon="23.696232">
+        <ele>21</ele>
+        <time>2017-07-03T11:42:58.000Z</time>
+        <extensions>
+          <geotracker:meta c="192.2" s="4.15" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.650906" lon="23.696199">
+        <ele>23</ele>
+        <time>2017-07-03T11:43:01.000Z</time>
+        <extensions>
+          <geotracker:meta c="196.4" s="4.22" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.650757" lon="23.69628">
+        <ele>21</ele>
+        <time>2017-07-03T11:43:06.000Z</time>
+        <extensions>
+          <geotracker:meta c="141.8" s="3.59" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.650639" lon="23.696304">
+        <ele>21</ele>
+        <time>2017-07-03T11:43:09.000Z</time>
+        <extensions>
+          <geotracker:meta c="187.8" s="4.62" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.650444" lon="23.696215">
+        <ele>23</ele>
+        <time>2017-07-03T11:43:13.000Z</time>
+        <extensions>
+          <geotracker:meta c="195" s="5.97" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.650349" lon="23.696188">
+        <ele>22</ele>
+        <time>2017-07-03T11:43:15.000Z</time>
+        <extensions>
+          <geotracker:meta c="193.4" s="6.13" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.650173" lon="23.696117">
+        <ele>26</ele>
+        <time>2017-07-03T11:43:18.000Z</time>
+        <extensions>
+          <geotracker:meta c="195" s="6.65" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.650055" lon="23.696053">
+        <ele>26</ele>
+        <time>2017-07-03T11:43:20.000Z</time>
+        <extensions>
+          <geotracker:meta c="194.5" s="6.91" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649883" lon="23.696011">
+        <ele>25</ele>
+        <time>2017-07-03T11:43:23.000Z</time>
+        <extensions>
+          <geotracker:meta c="187.5" s="5.85" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649731" lon="23.695992">
+        <ele>24</ele>
+        <time>2017-07-03T11:43:26.000Z</time>
+        <extensions>
+          <geotracker:meta c="181.5" s="5.31" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649635" lon="23.696014">
+        <ele>23</ele>
+        <time>2017-07-03T11:43:28.000Z</time>
+        <extensions>
+          <geotracker:meta c="171.8" s="5.09" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649506" lon="23.696022">
+        <ele>22</ele>
+        <time>2017-07-03T11:43:31.000Z</time>
+        <extensions>
+          <geotracker:meta c="177.6" s="4.39" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649391" lon="23.696095">
+        <ele>21</ele>
+        <time>2017-07-03T11:43:34.000Z</time>
+        <extensions>
+          <geotracker:meta c="133.3" s="4.6" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649315" lon="23.696276">
+        <ele>20</ele>
+        <time>2017-07-03T11:43:37.000Z</time>
+        <extensions>
+          <geotracker:meta c="127.9" s="5.39" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649239" lon="23.69655">
+        <ele>23</ele>
+        <time>2017-07-03T11:43:40.000Z</time>
+        <extensions>
+          <geotracker:meta c="104.5" s="6.32" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649227" lon="23.696884">
+        <ele>26</ele>
+        <time>2017-07-03T11:43:43.000Z</time>
+        <extensions>
+          <geotracker:meta c="99" s="6.9" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649193" lon="23.697325">
+        <ele>29</ele>
+        <time>2017-07-03T11:43:47.000Z</time>
+        <extensions>
+          <geotracker:meta c="101" s="7.18" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649181" lon="23.697554">
+        <ele>28</ele>
+        <time>2017-07-03T11:43:49.000Z</time>
+        <extensions>
+          <geotracker:meta c="93.1" s="6.91" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649147" lon="23.697903">
+        <ele>29</ele>
+        <time>2017-07-03T11:43:52.000Z</time>
+        <extensions>
+          <geotracker:meta c="93.7" s="7.31" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649124" lon="23.698252">
+        <ele>28</ele>
+        <time>2017-07-03T11:43:55.000Z</time>
+        <extensions>
+          <geotracker:meta c="95" s="7.55" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649101" lon="23.698505">
+        <ele>29</ele>
+        <time>2017-07-03T11:43:57.000Z</time>
+        <extensions>
+          <geotracker:meta c="97" s="7.37" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649086" lon="23.69883">
+        <ele>28</ele>
+        <time>2017-07-03T11:44:00.000Z</time>
+        <extensions>
+          <geotracker:meta c="93.1" s="7.25" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649067" lon="23.699196">
+        <ele>27</ele>
+        <time>2017-07-03T11:44:03.000Z</time>
+        <extensions>
+          <geotracker:meta c="101.9" s="7.37" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649033" lon="23.69956">
+        <ele>27</ele>
+        <time>2017-07-03T11:44:06.000Z</time>
+        <extensions>
+          <geotracker:meta c="98.1" s="7.63" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649014" lon="23.699909">
+        <ele>28</ele>
+        <time>2017-07-03T11:44:09.000Z</time>
+        <extensions>
+          <geotracker:meta c="95.3" s="6.98" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.64901" lon="23.700136">
+        <ele>28</ele>
+        <time>2017-07-03T11:44:11.000Z</time>
+        <extensions>
+          <geotracker:meta c="95.7" s="7.06" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648991" lon="23.700489">
+        <ele>29</ele>
+        <time>2017-07-03T11:44:14.000Z</time>
+        <extensions>
+          <geotracker:meta c="95" s="7" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648991" lon="23.70085">
+        <ele>27</ele>
+        <time>2017-07-03T11:44:17.000Z</time>
+        <extensions>
+          <geotracker:meta c="97.5" s="6.81" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648975" lon="23.701212">
+        <ele>28</ele>
+        <time>2017-07-03T11:44:20.000Z</time>
+        <extensions>
+          <geotracker:meta c="94.8" s="7.12" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648964" lon="23.701536">
+        <ele>27</ele>
+        <time>2017-07-03T11:44:23.000Z</time>
+        <extensions>
+          <geotracker:meta c="96.7" s="6.81" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648945" lon="23.701881">
+        <ele>27</ele>
+        <time>2017-07-03T11:44:26.000Z</time>
+        <extensions>
+          <geotracker:meta c="96.6" s="7.34" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648911" lon="23.702219">
+        <ele>27</ele>
+        <time>2017-07-03T11:44:29.000Z</time>
+        <extensions>
+          <geotracker:meta c="99.3" s="6.76" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648888" lon="23.702446">
+        <ele>28</ele>
+        <time>2017-07-03T11:44:31.000Z</time>
+        <extensions>
+          <geotracker:meta c="99.8" s="7.57" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648869" lon="23.702791">
+        <ele>26</ele>
+        <time>2017-07-03T11:44:34.000Z</time>
+        <extensions>
+          <geotracker:meta c="99.7" s="7.07" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648834" lon="23.703123">
+        <ele>28</ele>
+        <time>2017-07-03T11:44:37.000Z</time>
+        <extensions>
+          <geotracker:meta c="100.4" s="7.37" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648819" lon="23.703354">
+        <ele>28</ele>
+        <time>2017-07-03T11:44:39.000Z</time>
+        <extensions>
+          <geotracker:meta c="101.5" s="6.97" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648785" lon="23.703693">
+        <ele>28</ele>
+        <time>2017-07-03T11:44:42.000Z</time>
+        <extensions>
+          <geotracker:meta c="101.9" s="6.91" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648754" lon="23.704033">
+        <ele>27</ele>
+        <time>2017-07-03T11:44:45.000Z</time>
+        <extensions>
+          <geotracker:meta c="97.4" s="6.83" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648731" lon="23.704384">
+        <ele>25</ele>
+        <time>2017-07-03T11:44:48.000Z</time>
+        <extensions>
+          <geotracker:meta c="97.1" s="6.97" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648697" lon="23.704712">
+        <ele>25</ele>
+        <time>2017-07-03T11:44:51.000Z</time>
+        <extensions>
+          <geotracker:meta c="103.8" s="6.82" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648674" lon="23.705036">
+        <ele>24</ele>
+        <time>2017-07-03T11:44:54.000Z</time>
+        <extensions>
+          <geotracker:meta c="96.1" s="6.72" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648647" lon="23.705395">
+        <ele>24</ele>
+        <time>2017-07-03T11:44:57.000Z</time>
+        <extensions>
+          <geotracker:meta c="96.7" s="7.25" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648621" lon="23.70574">
+        <ele>26</ele>
+        <time>2017-07-03T11:45:00.000Z</time>
+        <extensions>
+          <geotracker:meta c="101" s="6.68" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648594" lon="23.706038">
+        <ele>26</ele>
+        <time>2017-07-03T11:45:03.000Z</time>
+        <extensions>
+          <geotracker:meta c="96.5" s="6.22" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648575" lon="23.706335">
+        <ele>26</ele>
+        <time>2017-07-03T11:45:06.000Z</time>
+        <extensions>
+          <geotracker:meta c="99.9" s="6.04" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648636" lon="23.706577">
+        <ele>25</ele>
+        <time>2017-07-03T11:45:09.000Z</time>
+        <extensions>
+          <geotracker:meta c="26.7" s="5.95" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648773" lon="23.706543">
+        <ele>25</ele>
+        <time>2017-07-03T11:45:12.000Z</time>
+        <extensions>
+          <geotracker:meta c="342.1" s="5.65" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.648926" lon="23.706518">
+        <ele>27</ele>
+        <time>2017-07-03T11:45:15.000Z</time>
+        <extensions>
+          <geotracker:meta c="342.4" s="5.74" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.64909" lon="23.706495">
+        <ele>27</ele>
+        <time>2017-07-03T11:45:18.000Z</time>
+        <extensions>
+          <geotracker:meta c="2.1" s="5.07" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649193" lon="23.706455">
+        <ele>29</ele>
+        <time>2017-07-03T11:45:21.000Z</time>
+        <extensions>
+          <geotracker:meta c="355.6" s="4.27" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649364" lon="23.706333">
+        <ele>28</ele>
+        <time>2017-07-03T11:45:24.000Z</time>
+        <extensions>
+          <geotracker:meta c="344" s="6.31" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649544" lon="23.706228">
+        <ele>28</ele>
+        <time>2017-07-03T11:45:27.000Z</time>
+        <extensions>
+          <geotracker:meta c="343.6" s="6.02" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649696" lon="23.706146">
+        <ele>28</ele>
+        <time>2017-07-03T11:45:30.000Z</time>
+        <extensions>
+          <geotracker:meta c="345.1" s="5.86" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649849" lon="23.706116">
+        <ele>27</ele>
+        <time>2017-07-03T11:45:33.000Z</time>
+        <extensions>
+          <geotracker:meta c="351.4" s="4.58" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="56.649948" lon="23.706007">
+        <ele>24</ele>
+        <time>2017-07-03T11:45:35.000Z</time>
+        <extensions>
+          <geotracker:meta c="330.8" s="4.15" />
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
