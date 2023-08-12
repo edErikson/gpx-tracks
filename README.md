@@ -1,6 +1,6 @@
 # gpx-tracks
 
-* updated 08.10.2023
+* updated 08.10.2023, work in progress
   
 gpx track - parsing, analysis
 
